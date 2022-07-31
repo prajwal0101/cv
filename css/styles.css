@@ -1,0 +1,21 @@
+body {background-color: #FFE3A9;
+
+ }
+ img{height: 250px}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%
+}
+label {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: left;
+  width: 350px;
+  line-height: 10px;
+  margin-bottom: 5px;
+}
+input{border-width: 5px}
